@@ -1,2 +1,0 @@
-# anibiss.cr
-anibis.ch
